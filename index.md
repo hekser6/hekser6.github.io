@@ -2,6 +2,10 @@
 layout: default
 title: Home
 ---
+<img src="profile.jpeg" alt="Hamza Adaoud" width="150" style="border-radius: 50%;">
+
+# Hamza Adaoud - Security Research & Writeups
+Cybersecurity researcher documenting vulnerability assessments, CTF walkthroughs, and security tooling.
 
 # Welcome to my Security Writeups
 
