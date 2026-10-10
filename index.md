@@ -7,6 +7,8 @@ title: Home
 # Hamza Adaoud - Security Research & Writeups
 Cybersecurity researcher documenting vulnerability assessments, CTF walkthroughs, and security tooling.
 
+[About Me](/about/)
+
 # Welcome to my Security Writeups
 
 Here is a list of my latest research and posts:
