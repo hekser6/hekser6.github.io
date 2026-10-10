@@ -2,6 +2,9 @@
 layout: default
 title: Home
 ---
+
+<meta name="google-site-verification" content="JlqtL3H6cdgMdqRdWX6q59UAVYyZBTci-s5k5fICA-8" />
+
 <img src="profile.jpeg" alt="Hamza Adaoud" width="150" style="border-radius: 50%;">
 
 # Hamza Adaoud - Security Research & Writeups
