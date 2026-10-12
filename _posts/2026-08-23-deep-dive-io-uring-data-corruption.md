@@ -2,6 +2,8 @@
 layout: post
 title: "Deep Dive: The io_uring Data Corruption Bug"
 date: 2026-08-23 00:00:00 +0000
+author: Hamza Adaoud
+tags: [linux, kernel, io_uring]
 ---
 
 # io_uring: provided-buffer-ring head under-advance after bundled MSG_WAITALL receive
